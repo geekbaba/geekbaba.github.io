@@ -1,0 +1,11 @@
+使用emacs+org-mode 写博客
+
+   前几日看到一枚NB前端工程师的github博客，觉得有趣，博主也想弄一个。
+于是博主奔忙于两个部门之间，各种请教。结果发现他们的博客都是MarkDown写的。博主没有鄙视MarkDown.
+只是博主太爱emacs Org-mode了。所以我把他们对MarkDown多有的复杂配置和生成工具都省去了。仅仅用一个emacs就搞定了。然后生成一下搞定。
+然后就
+#+begin_src shell
+git commit 
+git push
+#+end_src
+等两分钟就可以看到自己的更新了

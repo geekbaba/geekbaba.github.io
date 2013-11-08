@@ -1,3 +1,5 @@
 GeekBaba`s Blog
 * 技术博文
 * 蛋疼锦集
+** 让人蛋疼的技术
+*** emacs + org + github 写blog[[file:post/egg_pain/using_emacs_org_blog_01.org][正文]]
